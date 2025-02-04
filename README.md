@@ -1,2 +1,2 @@
 # ReactNative_DiningPlace
-React Native 
+React Native - Địa điểm ăn uống
